@@ -1,0 +1,82 @@
+h1 {
+    color: #333;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+#navbar {
+    background-color: #f4f4f4;
+    padding: 10px;
+}
+
+#navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#navbar ul li {
+    display: inline-block;
+}
+
+#navbar ul li a {
+    color: #333;
+    text-decoration: none;
+    padding: 10px;
+}
+
+#navbar ul li a:hover {
+    background-color: #333;
+    color: #fff;
+}
+
+
+#showcase {
+    background-image: url(../image/apple.jpg);
+    background-position: center right;
+    min-height: 150px;
+    margin-bottom: 30px;
+    padding: 50px;
+    text-align: center;
+}
+
+
+#main {
+    padding: 20px;
+}
+
+#main h1 {
+    color: #333;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#main p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+
+#sidebar {
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+#sidebar p {
+    color: #666;
+    font-size: 16px;
+}
+
+
+#main-footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+#main-footer p {
+    margin: 0;
+}
